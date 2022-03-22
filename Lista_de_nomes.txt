@@ -3,3 +3,7 @@ Lucas
 Gustavo
 José
 David
+
+Banana
+Maça
+Uva
